@@ -1,0 +1,15 @@
+.ftr {
+    background-image: url('https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+}
+
+#Popover1 {
+    background-color: #f4f7f5;
+}
+#Popover2 {
+    background-color: #f4f7f5;
+}
+
+/* #phoneNum:hover {
+    content: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwDnoITDteCOJ9-ik0MD56eyCP4CJn-oobKQzkh7pD56ti-mkvHezcYWZEHOgXRYAQddO1WQviSb2sdGa4MiHuBIQMsduneVRd_g&usqp=CAU&ec=45699845')
+
+} */

@@ -1,0 +1,39 @@
+.hw {
+    width: 18rem;
+    background-color: #f4f7f5;
+}
+
+.hw_img {
+    height: 26vh;
+    background-color: #f4f7f5;
+}
+
+.row1 {
+    background-color: #f4f7f5;
+}
+
+
+#burgerPic:hover {
+    content: url('https://media.giphy.com/media/FR6L8qTSkEGYRVt3rE/giphy.gif');
+}
+
+#workoutPic:hover {
+    content: url('../../images/workout.gif');
+}
+
+
+#workdayPic:hover {
+    content: url('../../images/ScreenshotDayScheduler2.png');
+}
+
+#weatherPic:hover {
+    content: url('https://media.giphy.com/media/NWiKX9lRt3ljyVQ8sl/giphy.gif')
+}
+
+#noteTakerPic:hover {
+    content: url('https://media.giphy.com/media/rIr2BaSOedKNhpyNYj/giphy.gif')
+}
+
+#employeeTrackerPic:hover {
+    content: url('../../images/employee-tracker.gif')
+}

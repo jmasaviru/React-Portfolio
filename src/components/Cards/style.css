@@ -1,0 +1,40 @@
+.cardSection {
+    background-color: #f4f7f5;
+}
+
+.card {
+    max-width: 330px;
+    max-height:280px;
+    opacity: 0.85;
+    background-color: #f4f7f5;
+}
+
+.card-img {
+    max-width: 330px;
+    max-height:200px;
+    min-height:190px;
+
+}
+
+.projectGif {
+    max-width: 330px;
+    max-height:200px;
+    min-height:190px;
+}
+
+.cardDiv {
+    margin-bottom: 2rem;
+    background-color: #f4f7f5;
+}
+
+.extraWords {
+    font-size: 120%;
+}
+
+#datecapePic:hover {
+    content: url('../../images/DateCapeDemo.gif');
+}
+
+#dish2passPic:hover {
+    content: url('../../images/dish2pass.gif')
+}

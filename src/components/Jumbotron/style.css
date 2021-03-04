@@ -1,0 +1,22 @@
+.linkImg {
+    max-height: 7vh;
+}
+
+.jumbotron {
+    /* Rocks */
+    background-image: url('../../images/bar.jpg');
+    /* White */
+    /* background-image: url("https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"); */
+    background-size: cover;
+    padding: 2rem;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+.row {
+    background-color:rgba(255,255,255, 0.8);
+}
+
+.name {
+    margin-top: 50px;
+}
