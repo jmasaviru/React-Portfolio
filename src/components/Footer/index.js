@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Popover, PopoverHeader, PopoverBody } from 'reactstrap';
 import './style.css';
 
 function Footer(props){
@@ -16,7 +15,7 @@ function Footer(props){
         <div className='row'>
             <div className='col'>
                 <div className="footer-copyright text-center py-3 ml-4">
-                    <p>© 2020 Copyright</p>    
+                    <p>© 2021 Copyright</p>    
                 </div>
             </div>
          </div>
