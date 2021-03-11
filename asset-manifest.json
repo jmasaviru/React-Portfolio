@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f29a3c79.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.e9604ed4.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.e9604ed4.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ce0200f0.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.ce0200f0.js.map",
+    "static/js/2.1d43661f.chunk.js": "/React-Portfolio/static/js/2.1d43661f.chunk.js",
+    "static/js/2.1d43661f.chunk.js.map": "/React-Portfolio/static/js/2.1d43661f.chunk.js.map",
+    "static/js/3.761332e4.chunk.js": "/React-Portfolio/static/js/3.761332e4.chunk.js",
+    "static/js/3.761332e4.chunk.js.map": "/React-Portfolio/static/js/3.761332e4.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.f29a3c79.chunk.css.map": "/React-Portfolio/static/css/main.f29a3c79.chunk.css.map",
+    "static/js/2.1d43661f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.1d43661f.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React-Portfolio/static/media/workout.98d88580.gif",
+    "static/media/datecape.302717d2.png": "/React-Portfolio/static/media/datecape.302717d2.png",
+    "static/media/infotech.0ce7afd4.png": "/React-Portfolio/static/media/infotech.0ce7afd4.png",
+    "static/media/resumepic1.3dfe30ae.jpg": "/React-Portfolio/static/media/resumepic1.3dfe30ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce0200f0.js",
+    "static/js/2.1d43661f.chunk.js",
+    "static/css/main.f29a3c79.chunk.css",
+    "static/js/main.e9604ed4.chunk.js"
+  ]
+}
