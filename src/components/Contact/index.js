@@ -42,7 +42,7 @@ function Contact(props){
                             <img className="btn mb-4 linkImg" target="_blank" src="https://static.thenounproject.com/png/637927-200.png" alt="..."></img>
                         </a>
                       
-                        <a href="/#" id="Popover1" type="button">
+                        <a href id="Popover1" type="button">
                         <img className="btn mb-4 linkImg" target="_blank" src="https://static.thenounproject.com/png/1042814-200.png" alt="..."></img>
                         </a>
                             <Popover placement="top" isOpen={popoverOpen1} target="Popover1" toggle={toggle1}>
@@ -50,7 +50,7 @@ function Contact(props){
                             <PopoverBody>(313) 652-4919</PopoverBody>
                         </Popover>
                         
-                        <a href="/#" id="Popover2" type="button">
+                        <a href id="Popover2" type="button">
                             <img className="btn mb-4 linkImg" target="_blank" src="https://image.flaticon.com/icons/png/512/8/8807.png" alt="..."></img>
                         </a>
                             <Popover placement="top" isOpen={popoverOpen2} target="Popover2" toggle={toggle2}>
