@@ -5,6 +5,7 @@ function Footer(props){
 
     const [popoverOpen, setPopoverOpen] = useState(false);
 
+    // eslint-disable-next-line no-unused-vars
     const toggle = () => setPopoverOpen(!popoverOpen);
 
     return(
