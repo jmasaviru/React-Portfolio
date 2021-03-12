@@ -3,8 +3,10 @@ import './style.css'
 
 function Technical() {
     return(
+        
         <div className='tech'>
             <div className="container text-center">
+            <br/>
                 <h3 className='text-left'>Technical Skills</h3>
                 <hr></hr>
                 
