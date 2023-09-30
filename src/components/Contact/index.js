@@ -32,7 +32,7 @@ function Contact(props){
                         <a className="btn mb-4" href="https://github.com/jmasaviru" rel="noopener noreferrer" target="_blank">
                             <img className='btn linkImg' src={gitHubLogo} alt="..."/>
                         </a>
-                        <a href="https://www.linkedin.com/in/james-masaviru-ba0a2117/" rel="noopener noreferrer" target="_blank">
+                        <a href="https://www.linkedin.com/in/james-masaviru/" rel="noopener noreferrer" target="_blank">
                             <img className="btn mb-4 linkImg" target="_blank" src="https://logoeps.com/wp-content/uploads/2014/02/49656-linkedin-logo-icon-vector-icon-vector-eps.png" alt="..."></img>
                         </a>
                         <a href="https://www.youtube.com/channel/UC6hNqvr03w_KP0PwbeJzcsQ" rel="noopener noreferrer" target="_blank">
