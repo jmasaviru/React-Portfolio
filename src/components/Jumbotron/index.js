@@ -14,7 +14,7 @@ function Jumbotron() {
                     </div>  
                     
                     <div className="col-sm-12">
-                    <p className="lead text-center">Full Stack Web Developer | Cybersecurity</p>
+                    <p className="lead text-center">Full Stack Web Developer | Cybersecurity </p>
                     </div>  
                 </div>
 
