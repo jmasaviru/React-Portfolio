@@ -18,9 +18,9 @@ function AboutMe() {
                         <div class="media-body text-wrap">
                             <h3 class="mt-2">About Me</h3>
                                 <hr/>
-                            <h6>Full Stack Web Developer with previous experience in Accounting and IT. Self motivated with a high affinity for problem solving and enhancing my skills. I hold a Bachelors of Business Administration in Accounting and experience in finance and accounting operations in a non-profit organization.
+                            <h6> Full Stack Web Developer currently learning Cybersecurity, with previous experience in Accounting and IT. I hold a Bachelors of Business Administration in Accounting and experience in finance and accounting operations in a non-profit organization.
                                     <br/>
-                                    My passion for learning and my inclination towards Information Technology steered me to a Full Stack Web Development course at the Michigan State University Coding Bootcamp which I have now completed.
+                                    To bolster my endeavors in Software Engineering, my passion for learning steered me to the Amazon Cybersecurity course with Correlation One, which I am to complete in November 2023.
                                     <br/>
                                     Excited at shifting my career towards this fascinating trajectory! 
                             </h6>

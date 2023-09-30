@@ -33,12 +33,12 @@ function Contact(props){
                             <img className='btn linkImg' src={gitHubLogo} alt="..."/>
                         </a>
                         <a href="https://www.linkedin.com/in/james-masaviru-ba0a2117/" rel="noopener noreferrer" target="_blank">
-                            <img className="btn mb-4 linkImg" target="_blank" src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="..."></img>
+                            <img className="btn mb-4 linkImg" target="_blank" src="https://logoeps.com/wp-content/uploads/2014/02/49656-linkedin-logo-icon-vector-icon-vector-eps.png" alt="..."></img>
                         </a>
                         <a href="https://www.youtube.com/channel/UC6hNqvr03w_KP0PwbeJzcsQ" rel="noopener noreferrer" target="_blank">
-                            <img className="btn mb-4 linkImg" target="_blank" src="https://img.flaticon.com/icons/png/512/49/49399.png" alt="..."></img>
+                            <img className="btn mb-4 linkImg" target="_blank" src="https://static.thenounproject.com/png/3451621-200.png" alt="..."></img>
                         </a>
-                        <a href="https://docs.google.com/document/d/1PC5i2d_d5IsvHtBSlKg0Z7JIo7KG_WIQAjI9qWX9k1c/edit?usp=sharing" rel="noopener noreferrer" target="_blank">
+                        <a href="https://docs.google.com/document/d/1nnH6YuU1ziambwKovT0d6CjyBrx9DyAxyQmUyoihcNY/edit" rel="noopener noreferrer" target="_blank">
                             <img className="btn mb-4 linkImg" target="_blank" src="https://static.thenounproject.com/png/637927-200.png" alt="..."></img>
                         </a>
                       
@@ -51,7 +51,7 @@ function Contact(props){
                         </Popover>
                         
                         <a href id="Popover2" type="button">
-                            <img className="btn mb-4 linkImg" target="_blank" src="https://image.flaticon.com/icons/png/512/8/8807.png" alt="..."></img>
+                            <img className="btn mb-4 linkImg" target="_blank" src="https://static.thenounproject.com/png/12462-200.png" alt="..."></img>
                         </a>
                             <Popover placement="top" isOpen={popoverOpen2} target="Popover2" toggle={toggle2}>
                             <PopoverHeader>Email Address</PopoverHeader>
